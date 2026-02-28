@@ -44,7 +44,7 @@ NoIpUpdater/
 - Color-coded messages (green=success, red=error, yellow=warning)
 - Delete function
 
-## Technikai részletek
+## Technical Details
 
 ### Running in the background
 - **AlarmManager**: Automatically updates every hour
@@ -57,7 +57,6 @@ The app will only update over WiFi to ensure it reports the IP address of the lo
 ConnectivityManager.TYPE_WIFI
 ```
 
-265
 ### Get IP address
 Tries multiple services in a row:
 - api.ipify.org
