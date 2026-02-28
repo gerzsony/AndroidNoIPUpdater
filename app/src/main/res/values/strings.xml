@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">No-IP Updater</string>
+    
+    <!-- Main Activity -->
+    <string name="status_label">Status:</string>
+    <string name="status_active">Active</string>
+    <string name="status_inactive">Inactive</string>
+    <string name="current_ip_label">Current IP:</string>
+    <string name="last_update_label">Last update:</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="button_manual_update">Manual Update</string>
+    <string name="button_settings">Settings</string>
+    <string name="button_logs">Logs</string>
+    
+    <!-- Settings Activity -->
+    <string name="settings_title">Settings</string>
+    <string name="hostname_label">Hostname</string>
+    <string name="hostname_hint">panoramaapartment.sytes.net</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">email@example.com</string>
+    <string name="password_label">Password</string>
+    <string name="password_hint">••••••••</string>
+    <string name="api_url_label">API URL</string>
+    <string name="api_url_hint">http://dynupdate.no-ip.com/nic/update</string>
+    <string name="date_format_label">Date Format</string>
+    <string name="date_format_hint">%d-%b-%Y %T</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="settings_saved">Settings saved!</string>
+    <string name="fill_required_fields">Please fill all required fields!</string>
+    
+    <!-- Logs Activity -->
+    <string name="logs_title">Logs</string>
+    <string name="button_clear">Clear</string>
+    <string name="no_logs">No log entries yet</string>
+</resources>

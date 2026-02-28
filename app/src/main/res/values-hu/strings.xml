@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">No-IP Frissítő</string>
+    
+    <!-- Main Activity -->
+    <string name="status_label">Státusz:</string>
+    <string name="status_active">Aktív</string>
+    <string name="status_inactive">Inaktív</string>
+    <string name="current_ip_label">Jelenlegi IP:</string>
+    <string name="last_update_label">Utolsó frissítés:</string>
+    <string name="button_start">Indítás</string>
+    <string name="button_stop">Leállítás</string>
+    <string name="button_manual_update">Azonnali frissítés</string>
+    <string name="button_settings">Beállítások</string>
+    <string name="button_logs">Naplók</string>
+    
+    <!-- Settings Activity -->
+    <string name="settings_title">Beállítások</string>
+    <string name="hostname_label">Hostnév</string>
+    <string name="hostname_hint">panoramaapartment.sytes.net</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">email@example.com</string>
+    <string name="password_label">Jelszó</string>
+    <string name="password_hint">••••••••</string>
+    <string name="api_url_label">API URL</string>
+    <string name="api_url_hint">http://dynupdate.no-ip.com/nic/update</string>
+    <string name="date_format_label">Dátum formátum</string>
+    <string name="date_format_hint">%d-%b-%Y %T</string>
+    <string name="button_save">Mentés</string>
+    <string name="button_cancel">Mégse</string>
+    <string name="settings_saved">Beállítások mentve!</string>
+    <string name="fill_required_fields">Kérlek töltsd ki az összes kötelező mezőt!</string>
+    
+    <!-- Logs Activity -->
+    <string name="logs_title">Naplók</string>
+    <string name="button_clear">Törlés</string>
+    <string name="no_logs">Még nincsenek naplóbejegyzések</string>
+</resources>
